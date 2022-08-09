@@ -1,0 +1,17 @@
+# print(2+1)
+# print(2-1)
+# print(2*3)
+# print(2%3)
+
+num1=int(input("enter the first number"))
+num2=int(input("enter the second number"))
+input(num1+num2)
+input(num1-num2)
+input(num1*num2)
+input(num1%num2)
+print(input)
+
+# numa=int(input("enter the first number to subtract"))
+# numb=int(input("enter the second number to subtract"))
+# input(numa-numb)
+# print(input)
